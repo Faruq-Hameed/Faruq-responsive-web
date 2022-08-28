@@ -3,6 +3,11 @@
     padding: 0px;
 }
 
+/* utils */
+.margin{
+    margin-bottom: 2%;
+}
+
 .body-container{
     width: 100%;
     height: fit-content;
