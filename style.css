@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    /* box-sizing: border-box; */
 }
 
 /* utils */
@@ -203,6 +204,12 @@ a{
     .main-container{
         margin-top:40%;
         
+    }
+}
+
+@media screen and (max-width:330px){
+    .footer-container{
+    font-size: 12px;        
     }
 }
 
