@@ -192,24 +192,19 @@ a{
     }
 }
 
-@media screen and (max-width:362px){
+ @media screen and (max-width:362px){
     .main-container{
-        margin-top:30%;
+        margin-top:30%;   
+    }
 
-        
+    .footer-container{
+        font-size: 12px;
     }
 }
 
 @media screen and (max-width:250px){
     .main-container{
         margin-top:40%;
-        
-    }
-}
-
-@media screen and (max-width:330px){
-    .footer-container{
-    font-size: 12px;        
     }
 }
 
